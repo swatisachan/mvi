@@ -5,7 +5,7 @@
     <classes>
      <!--<class name="sele1.selenuim.AppTest"/>  --> 
       <class name="grp.mvi.NewTest"/>
-            <class name="grp.mvi.NewTest1"/>
+       <class name="grp.mvi.NewTest1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
