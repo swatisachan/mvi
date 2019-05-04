@@ -4,10 +4,9 @@ import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
 
-public class NewTest1 {
+public class NewTest2 {
   @Test
-  public void f1() {
-	  
+  public void f23() {
 	  assertEquals("swati", "swati");
   }
 }
